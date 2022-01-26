@@ -26,7 +26,7 @@ It's so much fun to work with Daddy!  She's getting old enough to really be inte
 
 We're doing some remodeling on the house - tearing up tile, installing new floor, painting, etc.  Rachel tries to include the kids as much as she can - she's braver than her husband!
 
-![Snowman](/static/img/pxl_20220108_174013336.portrait.jpg)
+![Snowman](/static/img/pxl_20220108_174013336.portrait-2-.jpg)
 
 We haven't had much snow in Colorado yet - our snowiest months are February and March - but we did get enough for a snowman. :)
 
