@@ -1,24 +1,17 @@
 ---
-title: January 2022:Getting Settled In
+title: Getting Settled In
 description: New routines and home improvements in the new home.
 author: Walter
 date: 2022-01-26T00:04:11.344Z
 tags:
   - created
 ---
-<!--StartFragment-->
 
 ![3 smiling girls](/static/img/pxl_20220112_010512077.night.jpg "Sometimes I wonder what people think when they drive by our house....")
 
-<!--EndFragment-->
-
 Our home sits against a fairly busy road, and the girls love to watch the cars go by. 
 
-<!--StartFragment-->
-
 ![Working with daddy](/static/img/pxl_20220109_223716601.jpg)
-
-<!--EndFragment-->
 
 It's so much fun to work with Daddy!  She's getting old enough to really be interactive, and is about to learn how to walk. 
 
