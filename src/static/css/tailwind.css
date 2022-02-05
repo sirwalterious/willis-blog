@@ -18,3 +18,10 @@ body :not(pre) > code[class*="language-"],
 body pre[class*="language-"] {
   @apply bg-gray-800;
 }
+
+.song p {
+  @apply mt-5 text-2xl;
+}
+.song h1 {
+  @apply mb-10;
+}
