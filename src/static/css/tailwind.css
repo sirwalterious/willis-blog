@@ -20,8 +20,8 @@ body pre[class*="language-"] {
 }
 
 .song p {
-  @apply mt-5 text-2xl;
+  @apply mt-5 text-lg;
 }
 .song h1 {
-  @apply mb-10;
+  @apply mb-10 font-bold text-5xl;
 }

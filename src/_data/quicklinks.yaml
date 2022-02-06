@@ -1,10 +1,10 @@
 ---
 links:
-  - title: 📖 The Blog
+  - title: 📖 Our Blog
     url: "/blog/"
     desc: Pictures, writings, and updates. Probably scattered and infrequent. 
   - title: 🎵 The Songbook
-    url: "https://songs.willisfamily.org/"
+    url: "/songbook/"
     desc: Go ahead - pick a few for your next hymn sing or jam session.
   - title: 💻 The Geek-ery
     url: "https://stouthearted.com/"

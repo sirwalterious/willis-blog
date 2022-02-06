@@ -2,3 +2,5 @@
 items:
   - text: Blog
     url: "/blog"
+  - text: Songbook
+    url: "/songbook"
